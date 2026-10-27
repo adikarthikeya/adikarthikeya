@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=adikarthikeya2003&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=adikarthikeya&label=Profile%20views&color=0e75b6&style=flat)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave"/>
 
@@ -73,10 +73,10 @@ I also love sharing what I learn — through **technical writing on Medium**, **
   <a href="https://www.linkedin.com/in/adikarthikeya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://adikarthikeya2003.github.io" target="_blank">
+  <a href="https://adikarthikeya.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/adikarthikeya2003" target="_blank">
+  <a href="https://github.com/adikarthikeya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://youtube.com/@adikarthikeya" target="_blank">
@@ -96,10 +96,10 @@ I also love sharing what I learn — through **technical writing on Medium**, **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adikarthikeya2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adikarthikeya2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adikarthikeya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adikarthikeya&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikarthikeya2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikarthikeya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -109,7 +109,7 @@ I also love sharing what I learn — through **technical writing on Medium**, **
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adikarthikeya2003&theme=onedark&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adikarthikeya&theme=onedark&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -124,8 +124,8 @@ Whether you have an opportunity, a project, or just want to talk ML — my inbox
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adikarthikeya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://adikarthikeya2003.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
-  <a href="https://github.com/adikarthikeya2003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://adikarthikeya.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
+  <a href="https://github.com/adikarthikeya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://youtube.com/@adikarthikeya"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href="https://medium.com/@adikarthikeya"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
   <a href="https://instagram.com/adikarthikeya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
