@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Scientist & AI/ML Engineer** based in Houston, TX, currently finishing my **MS in Data Science at the University of Houston** (GPA 3.9, graduating May 2026). I build intelligent, production-grade systems — from **RAG pipelines** and **LLM fine-tuning** to **agentic AI** and **ML APIs** that turn raw data into real-world impact.
+I'm a **Data Scientist & AI/ML Engineer** based in Frisco, TX, with an **MS in Data Science from the University of Houston** (GPA 3.9, May 2026). I'm currently a **Technical Intern at WorldLink**, working on-site in Frisco. I build intelligent, production-grade systems — from **RAG pipelines** and **LLM fine-tuning** to **agentic AI** and **ML APIs** that turn raw data into real-world impact.
 
 I also love sharing what I learn — through **technical writing on Medium**, **deep-dive videos on YouTube**, and **bite-sized ML content on Instagram**.
 
