@@ -105,11 +105,24 @@ I also love sharing what I learn — through **technical writing on Medium**, **
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎓 Certifications & Highlights
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adikarthikeya&theme=onedark&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adikarthikeya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adikarthikeya/)
+[![Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect-Foundations-D97757?style=for-the-badge)](https://www.linkedin.com/in/adikarthikeya/)
+[![Databricks](https://img.shields.io/badge/Databricks-Generative_AI_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.linkedin.com/in/adikarthikeya/)
+
+</div>
+
+<div align="center">
+
+🏅 **Claude Certified Architect, Foundations** (Sept 2026)<br>
+🏅 **Databricks Generative AI Engineer Associate** (Oct 2026)<br>
+🏆 **4th Globally**, ODSC AI & Google Cloud Hackathon (ShopperAI)<br>
+🎓 **MS Data Science**, University of Houston (GPA 3.9)
+
+Full details on my [LinkedIn](https://www.linkedin.com/in/adikarthikeya/)
 
 </div>
 
